@@ -1,0 +1,18 @@
+{
+  "name": "Manjesh/slim-jwt-auth-demo",
+  "description": "Slim JWT Verify Demo",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Manjesh V",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "slim/slim": "3.x-dev",
+    "tuupola/slim-jwt-auth": "2.0.0",
+    "lcobucci/jwt": "^4.0@dev",
+    "tuupola/slim-basic-auth": "2.x-dev"
+  }
+}
